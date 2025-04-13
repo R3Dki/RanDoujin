@@ -1,5 +1,5 @@
 # RanDoujin
-Random Doujinshi Code Generator made in C++
+Random Doujinshi Code Generator made in C++, it only uses the standard library which means it's capable of running on (almost) any device.
 ## Not much can be said...
 ### It should be basically self explainatory
 
